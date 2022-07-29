@@ -81,6 +81,6 @@ section{
     z-index: -1;
     transform: translateY(-30%);
     height: 800px;
-    background: url('/assets/justice.jpg');
+    background: url('./assets/justice.jpg');
     background-size: cover;
 }
